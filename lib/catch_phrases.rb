@@ -3,7 +3,7 @@ def mario
   puts status
 end
 def phrase
-local_variable = status
+local_variable = 'It's-a me, mario!'
 puts local_variable
 end
 
