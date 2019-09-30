@@ -8,6 +8,7 @@ puts local_variable
 end
 
 def toadstool
+  status = 'It's-a me, Mario!''
   puts status
   end
 
