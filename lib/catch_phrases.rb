@@ -8,6 +8,7 @@ puts local_variable
 end
 
 def toadstool
+
   puts status
   end
 
