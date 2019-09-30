@@ -1,10 +1,10 @@
 def mario
-  mario = 'It's-a me, Mario!'
-  puts mario
+  status = 'It's-a me, Mario!'
+  puts status
 end
 def phrase
-local_variables= "It's-a me, Mario!"
-puts local_variables
+local_variable = "It's-a me, Mario!"
+puts local_variable
 end
 
 def toadstool
