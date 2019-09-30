@@ -1,8 +1,10 @@
 def mario
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts phrase
+  local_variables= 'It's-a me, Mario!'
+  puts local_variables
+end
 end
 
 def toadstool
   puts status
-end
+  end
+
