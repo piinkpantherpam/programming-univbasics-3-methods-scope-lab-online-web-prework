@@ -17,3 +17,4 @@ def link
   puts local_variable
 end
   
+  
