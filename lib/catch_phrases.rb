@@ -2,7 +2,7 @@ def mario
   status = 'It's-a me, Mario!'
   puts status
 end
-def phrase
+def mario
 local_variable = "It's-a me, Mario!"
 puts local_variable
 end
